@@ -1,3 +1,3 @@
 # curso_git
 
-# Primeira Ateração
+# Primeira Alteração
